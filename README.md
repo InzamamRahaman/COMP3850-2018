@@ -10,6 +10,7 @@
 * [On passing functions as arguments in MATLAB](https://www.mathworks.com/help/matlab/matlab_prog/pass-a-function-to-another-function.html)
 * [Linear Algebra cheat sheet](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 * [Comparison between MATLAB, Python (with Numpy), and Julia](https://cheatsheets.quantecon.org/)
+* Added some more [code](https://github.com/InzamamRahaman/COMP3850-2018/tree/master/code).
 
 ## 31st January 2018
 * You can find the installations for MATLAB [here](https://github.com/InzamamRahaman/COMP3850-2018/blob/master/Docs/MATLAB-install-instructions.pdf)
