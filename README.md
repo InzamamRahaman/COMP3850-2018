@@ -1,5 +1,5 @@
 # COMP3850-2018
-* Lecturer: [Sheik Yussuff]
+* Lecturer: Sheik Yussuff
 * Lectuer's Email: [sheik.yussuff](mailto:sheik.yussuff at sta.uwi.edu)
 * TA: [Inzamam Rahaman](https://inzamamrahaman.github.io)
 * TA's email address: [inzamam.rahaman@sta.uwi.edu](mailto:inzamam.rahaman at sta.uwi.edu)
