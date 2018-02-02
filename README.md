@@ -1,5 +1,5 @@
 # COMP3850-2018
-* TA: [Inzamam Rahaman](inzamamrahaman.github.io)
+* TA: [Inzamam Rahaman](https://inzamamrahaman.github.io)
 * TA email address: [inzamam.rahaman@sta.uwi.edu](mailto:inzamam.rahaman@sta.uwi.edu)
 
 
