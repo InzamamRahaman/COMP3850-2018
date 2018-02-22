@@ -5,6 +5,9 @@
 * TA's email address: [inzamam.rahaman at sta.uwi.edu](mailto:inzamam.rahaman@sta.uwi.edu)
 
 
+## 21st February 2018
+* Assignmnet #1 marks have been released. 
+
 ## 2nd February 2018
 * [Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm) is a succint resource for MATLAB syntax.
 * [On passing functions as arguments in MATLAB](https://www.mathworks.com/help/matlab/matlab_prog/pass-a-function-to-another-function.html)
