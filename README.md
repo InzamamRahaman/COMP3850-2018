@@ -6,7 +6,7 @@
 
 
 ## 21st February 2018
-* Assignmnet #1 marks have been released. 
+* Assignmnet #1 marks have been released. You can find them [here](https://github.com/InzamamRahaman/COMP3850-2018/blob/master/assignments/COMP3850%20Assignment%20%231%20Marks.xlsx) 
 
 ## 2nd February 2018
 * [Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm) is a succint resource for MATLAB syntax.
