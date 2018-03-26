@@ -7,6 +7,8 @@
 
 ## 23rd March 2018
 * [Code for SGD and Batching](https://github.com/InzamamRahaman/COMP3850-2018/tree/master/code/SGD%20code)
+
+## 16th March 2018
 * [Assignment #3 Spec](https://github.com/InzamamRahaman/COMP3850-2018/blob/master/assignments/COMP%203850%20-%20A3.docx). It is due on 6th April 2018
 
 ## 21st February 2018
