@@ -1,0 +1,6 @@
+function y = retrieve(W, x)
+    y = compute(W, x);
+    converged = all(x == y);
+    
+end
+
