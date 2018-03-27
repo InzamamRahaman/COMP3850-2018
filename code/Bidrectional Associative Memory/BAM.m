@@ -1,4 +1,4 @@
-function Y = BAM(W, X)
+function [X,Y] = BAM(W, X)
     X0 = X;
     Y0 = BAMForward(W, X0);
     X1 = BAMBackward(W, Y0);
@@ -13,6 +13,6 @@ function Y = BAM(W, X)
     end
     
     Y = Y1;
-    
+    X = X1;
 end
 
