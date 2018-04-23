@@ -1,5 +1,5 @@
 
-nbits = 10;
+nbits = 5;
 npop = 8;
 
 lo = 0;
@@ -11,12 +11,13 @@ tournamentRate = 0.5;
 mutationRate = 0.01;
 
 
-population = randomGen(nbits, npop);
+population = randomGen(npop, nbits);
 
+disp(population);
 
 for gen=1:numGenerations
     fitnesses = computeFitnesses(population, npop);
-    [newPopulation, already, left] = getSurvivors(population, fitnesses, nbits, npop, suvivorRate);
+    [newPopulation, already, left] = getSurvivors(population, fitnesses, nbits, npop, survivorRate);
     for i=1:left
         j = already + i;
         [c1, c2] = tournament(population, fitnesses, npop, nbits, tournamentRate);
@@ -36,6 +37,7 @@ for gen=1:numGenerations
 end
 
 
+disp((population));
 
 
 

@@ -5,8 +5,8 @@ function [newPopulation, num, numLeft] = getSurvivors(population, fitnesses, nbi
     [c, indicies] = sort(fitnesses);
     for i = 1:num
         j = indicies(i);
-%         disp(population(j, :));
-%         disp(
+        disp(population(j, :));
+        disp(
         newPopulation(i, 1:nbits) = population(j, 1:nbits);
        
     end

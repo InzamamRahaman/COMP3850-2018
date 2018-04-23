@@ -9,8 +9,8 @@ function [child1, child2] = tournament(population, fitnesses, npop, nbits, rate)
         toSelect(i) = fitnesses(i);
     end
     [C, I] = sort(toSelect);
-    parent1 = toSelect(I(1));
-    parent2 = toSelect(I(2));
+    parent1 = population(toSelectI(I(1)), :);
+    parent2 = population(toSelectI(I(2)), :);
     [child1, child2] = crossover(parent1, parent2, nbits);
     
 end
