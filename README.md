@@ -5,6 +5,9 @@
 * TA's email address: [inzamam.rahaman at sta.uwi.edu](mailto:inzamam.rahaman@sta.uwi.edu)
 
 
+## 23rd April 2018
+* [Master Sheet](https://github.com/InzamamRahaman/COMP3850-2018/blob/master/assignments/COMP3850%20Master%20Sheet.xlsx)
+
 ## 26th March 2018
 * [Code for Hopfield Networks](https://github.com/InzamamRahaman/COMP3850-2018/tree/master/code/SGD%20code)
 
